@@ -18,3 +18,4 @@ I was responsible for the following tasks:
 -Upload relevant information such as dealership models, real estate contact information, etc to the database.
 -Google SEO the main site (http://www.acerenting.com).
 
+-Tong Zou
